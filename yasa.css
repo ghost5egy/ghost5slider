@@ -1,0 +1,15 @@
+.yasaslider {
+width:1472px;
+height:982px;
+overflow:hidden;
+margin:30px auto;
+background-image:url("../img/InProgress.gif");
+background-repeat:no-repeat;
+background-position:center;
+}
+
+.yasaslider img{
+width:1472;
+height:982;
+display:none;
+}

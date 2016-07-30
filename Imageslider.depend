@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1371824905 source:d:\asd\imageslider\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<stdio.h>
+	<getopt.h>
+	<dirent.h>
+	"imageslider.h"
+
+1371521348 d:\asd\imageslider\imageslider.h
+
+1371824803 source:d:\asd\imageslider\imageslider.cpp
+	<sstream>
+	<iostream>
+	<fstream>
+	"imageslider.h"
+

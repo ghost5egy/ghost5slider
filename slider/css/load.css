@@ -1,0 +1,24 @@
+.yasaslider {
+	width:960px;
+	height:276px;
+	overflow:hidden;
+	margin:30px auto;
+	#background-image:url("../img/InProgress.gif");
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+.yasaslider img{
+	width:960;  
+	height:276;
+	display:none;
+}
+
+.yasashadow {
+	background-image:url("../img/shadow.png");
+	background-repeat:no-repeat;
+	background-position:top;
+	width:960px;
+	height:144px;
+	margin:-60px auto;
+}
